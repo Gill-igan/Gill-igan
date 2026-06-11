@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Gill Omondi Ochieng
 
-<!--
-**Gill-igan/Gill-igan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently studying Electrical and Electronics Engineering at Thika Technical Training Institute.
+- I'm interested in Artificial Intelligence, Embedded Systems, Renewable energy, web development and data science.
+- I'm looking to collaborate on beginner-friendly open source projects and engineering innovations.
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- Python
+- Arduino Programming
+- HTML/CSS
+- C++
+- Artificial Intelligence
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- Solar-powered smart irrigation system. A sustainable farming solution that combines solar power, soil moisture sensors and automation to provide efficient irrigation, reduce water wastage and support food security.
+
+## How to Reach Me
+- Email: gillomosh@gmail.com
+- LinkedIn: www.linkedin.com/in/gill-omondi-91585833a
+- Add my profile README.
